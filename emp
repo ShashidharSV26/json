@@ -15,6 +15,22 @@
     {
         "name": "Rosa Park",
         "city": "Alabama"
+    },
+   {
+        "name": "Shashidhar",
+        "city": "Bangalore"
+    },
+    {
+        "name": "Siddarth",
+        "city": "bijapur"
+    },
+    {
+        "name": "Omkar",
+        "city": "Bidar"
+    },
+    {
+        "name": "Raju",
+        "city": "Gangavathi"
     }
 ]
 }
