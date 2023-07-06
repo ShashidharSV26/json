@@ -2,7 +2,7 @@
 "employee":[
     {
         "name": "Harry Potter",
-        "city": "London"
+        "city": "London",
        "phno":"6361662695"
     },
     {
