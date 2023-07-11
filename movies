@@ -1,0 +1,295 @@
+{
+    "message": {
+        "movies": [
+            {
+                "english": [
+                    "Bumblebee.mkv",
+                    "Escape Plan.mp4"
+                ]
+            },
+            {
+                "hindi": [
+                    "Hotel Milan.mkv",
+                    "Kesari.mkv",
+                    "Petta hindi.mkv",
+                    "Romeo Akbar Walter.mkv",
+                    "ThugsofHindostan.mkv",
+                    "TotalDhamm.mkv",
+                    "UriTheSurgicalStrike.mkv",
+                    "WhyCheatIndia.mkv",
+                    "zero.mkv"
+                ]
+            },
+            {
+                "kannada": [
+                    "Ambi_Ning.mkv",
+                    "Ayogya .mkv",
+                    "K.G.F Chapter 1.mkv",
+                    "Sarkari. Hi. Pra. Shale Kasaragodu.mkv",
+                    "The Villain.mkv",
+                    "Victory 2.mkv",
+                    "Yajamana.mkv"
+                ]
+            },
+            {
+                "malayalam": [
+                    "Captain.mkv",
+                    "Hridayam.mkv",
+                    "Mahanati.mkv",
+                    "Oru Kuttanadan.mkv"
+                ]
+            },
+            {
+                "marathi": [
+                    "sairat.mp4"
+                ]
+            },
+            {
+                "tamil": [
+                    "90ML.mkv",
+                    "BharatEnnumNaan.mkv",
+                    "Vikram.mkv",
+                    "kgf.mkv"
+                ]
+            },
+            {
+                "telugu": [
+                    "2.0.mkv",
+                    "24 Kisses.mkv",
+                    "Anaganaga O Premakatha.mkv",
+                    "Anjali CBI.mkv"
+                ]
+            }
+        ],
+        "videos": [
+            {
+                "english": [
+                    {
+                        "popsongs": [
+                            "Bones.mp4",
+                            "Starboy.mp4",
+                            "TheHills.mp4",
+                            "TokyoDrift.mp4"
+                        ]
+                    },
+                    {
+                        "songs": [
+                            "Best English.mp4"
+                        ]
+                    },
+                    {
+                        "topsongs": [
+                            "Faded.mp4",
+                            "LaLaLa.mp4",
+                            "Perfect.mp4",
+                            "ShapeofYou.mp4",
+                            "WakaWaka.mp4"
+                        ]
+                    }
+                ]
+            },
+            {
+                "hindi": [
+                    {
+                        "hitsongs": [
+                            "3idiots.mp4",
+                            "90EvergreenRomanticLoveSongs.mp4",
+                            "BestAkshayKumarVideos.mp4",
+                            "BestOfSalmanKhan.mp4",
+                            "BestofShahrukhKhan.mp4",
+                            "HitsofAKSHAYKUMAR.mp4"
+                        ]
+                    },
+                    {
+                        "newsongs": [
+                            "ParamSundari.mp4",
+                            "PerfectionistKhan AamirKhan.mp4",
+                            "RaataanLambiyan.mp4",
+                            "SULTAN.mp4",
+                            "ShahrukhKhanBestOfMe.mp4"
+                        ]
+                    },
+                    {
+                        "topsongs": [
+                            "BesharamRang.mp4",
+                            "Doobey.mp4",
+                            "Kesariya.mp4",
+                            "htisongs.mp4",
+                            "latestsongs.mp4"
+                        ]
+                    }
+                ]
+            },
+            {
+                "kannada": [
+                    {
+                        "songs": [
+                            "Super Hit Romantic Video Songs.mp4"
+                        ]
+                    }
+                ]
+            },
+            {
+                "tamil": [
+                    {
+                        "songs": [
+                            "Aariyane.MKV",
+                            "Best of Dance Hits.mp4",
+                            "Bodhai Kodhai Gautham Vasudev Menon.MKV",
+                            "Cha Cha Charey.MKV",
+                            "Hey Reengara.MKV",
+                            "High On Love Pyaar Prema Kaadhal.MKV",
+                            "Imaikkaa Nodigal  Neeyum.MKV",
+                            "Irumbuthirai  Angry Bird Song.MKV",
+                            "Irumbuthirai  Azhagae Song.MKV",
+                            "Iruttu Araiyil Murattu Kuththu.MKV",
+                            "Junga  Amma Mela Sathiyam.MKV",
+                            "Kadaikutty Singam.MKV",
+                            "Kalakalappu 2  Thaarumaaru.MKV",
+                            "Kambathu Ponnu.MKV",
+                            "Kanaa  Vaayadi Petha Pulla Lyric.MKV",
+                            "Karakudi Ilavarasi Video Song.MKV",
+                            "Karuthavanlaam Galeejaam.MKV",
+                            "Krishna Mukundha.MKV",
+                            "Lakshmi  Morrakka.MKV",
+                            "Machakkanni.MKV",
+                            "Molagapodiye.MKV",
+                            "Naana Thaana.MKV",
+                            "Nenjil Maamazhai.MKV",
+                            "Nikkal Nikkal Kaala.MKV",
+                            "Ondraga Originals  Chinna Ponnu.MKV",
+                            "Onnavitta Yaarum Yenakilla.MKV",
+                            "Peela Peela.MKV",
+                            "Pondattee.MKV",
+                            "Pudhu Metro Rail Making.MKV",
+                            "Pudichiruka illa Pudikalaya.MKV",
+                            "Semma Weightu  Single.MKV",
+                            "Sketch  Cheeni Chillaallee.MKV",
+                            "Sketch  Dhaadikaara Song.MKV",
+                            "Sketch  Kanave Kanave Video Song.MKV",
+                            "Sodakku.MKV",
+                            "Tamizh Padam  Evada Unna Petha.MKV",
+                            "ThaanaaSerndhaKoottamTitleTrack.MKV",
+                            "Thittam Poda Theriyala.MKV",
+                            "Tik Tik Tik Kurumba.MKV",
+                            "TikTikTikTitleTrack.MKV",
+                            "Title Track Tamil Video.MKV",
+                            "U Turn The Karma Theme.MKV",
+                            "Ulaviravu Single OndragaOriginals.MKV",
+                            "Vaaren Vaaren Seemaraja.MKV",
+                            "Velaikkaran  Ezhu Velaikkara.MKV",
+                            "Yedhedho Aanene.MKV"
+                        ]
+                    }
+                ]
+            },
+            {
+                "telugu": [
+                    {
+                        "songs": [
+                            "Hello Guru Prema Kosame.mp4",
+                            "Hey Babu.mp4",
+                            "Idea Cheppu Friendu.mp4",
+                            "Inkem Inkem.mp4",
+                            "Laka Laka Lakumikara.mp4",
+                            "My World.mp4",
+                            "Native Place.mp4",
+                            "Peddha Peddha.mp4",
+                            "Telugu Movies.mp4",
+                            "Tick Tick Tick.mp4",
+                            "Top 10 Telugu Movie.mp4",
+                            "Top 10 Telugu.mp4",
+                            "Vaaru Veeru.mp4",
+                            "Yenti Yenti.mp4",
+                            "videoplayback (2).mp4",
+                            "videoplayback (3).mp4",
+                            "videoplayback (4).mp4",
+                            "videoplayback (5).mp4",
+                            "videoplayback (6).mp4",
+                            "videoplayback (7).mp4"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "comedy": [
+            {
+                "english": [
+                    {
+                        "mrbean": [
+                            "SPEEDY Bean.mp4",
+                            "Student Bean.mp4",
+                            "Video[3].mp4",
+                            "mr. bean holidays.mp4"
+                        ]
+                    }
+                ]
+            },
+            {
+                "hindi": [
+                    {
+                        "comedyhits": [
+                            "Hindi comedy show unlimited lughfjng  funny show.mp4",
+                            "The Kapil Sharma Show - ?? ???? ????? ??- Ep-71-Priyanka Chopra In Kapil's Show?1st Jan 2017.mp4"
+                        ]
+                    },
+                    {
+                        "comedyzones": [
+                            "BestOfBrahmanandamComedyScenes.mp4",
+                            "BestofAkshayKumar.mp4",
+                            "BrahmanandamBlastingComedyScenes.mp4",
+                            "BrahmanandamComedySceneslatest.mp4"
+                        ]
+                    },
+                    {
+                        "shows": [
+                            " Shakti Kapoor ? Bollywood Comedy Movies ? Hungama Scenes.mp4",
+                            "Dr.Mashoor Gulati Special ? The Best performance ? The Kapil Sharma Show ? Best of Comedy ? HD.mp4",
+                            "Ehsaan Qureshi Best Comedy ? Hindi Comedy 2016.mp4"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "cartoon": [],
+        "trailers": [
+            {
+                "english": [
+                    "Ant-Man_and_The_Wasp__Quantumania.mp4",
+                    "Avatar__The_Way_of_Water.mp4",
+                    "Barbie_Trailer.mp4",
+                    "Guardians_of_the_Galaxy.mp4",
+                    "John_Wick__Chapter_4.mp4",
+                    "Mission__Impossible_Dead_Reckoning.mp4",
+                    "Oppenheimer_Trailer.mp4",
+                    "SPIDER-MAN_ACROSS_THE_SPIDER-VERSE.mp4",
+                    "Shazam!_Fury_of_the_Gods.mp4",
+                    "Transformers__Rise_of_the_Beasts.mp4"
+                ]
+            },
+            {
+                "hindi": [
+                    "Adipurush-Prabhas.mp4",
+                    "Kuttey_Trailer_Arjun.mp4",
+                    "Pathaan_Teaser_Shah_Rukh.mp4"
+                ]
+            },
+            {
+                "malayalam": [
+                    "Ajayante_Randam_Moshanam.mp4"
+                ]
+            },
+            {
+                "tamil": [
+                    "Thunivu.mp4",
+                    "Vaathi Teaser Dhanush.mp4"
+                ]
+            },
+            {
+                "telugu": [
+                    "Waltair_Veerayya_Teaser.mp4"
+                ]
+            }
+        ]
+    }
+}
